@@ -2,9 +2,8 @@ apiVersion: v1
 entries:
   admwhi:
     - created: 2023-06-08T12:23:20.499814565-06:00
-      description: Deploy a AppDynamics Intrumentation Mutating Webhook
-      digest: a4eeadf9e0f61f0b253694114d19dfa7962b2dffb5d1bfbc09f52391cac616e0
-      home: https://helm.sh/helm
+      description: Deploy a AppDynamics Instrumentation Mutating Webhook
+      digest: 0be8dc0255da6d0ae9847cc167243990ee5699c261090a223c31cdb503e78403
       name: admwhi
       sources:
       - https://github.com/cisco-open/appdynamics-k8s-webhook-instrumentor
