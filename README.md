@@ -51,6 +51,10 @@ to upgrade after values change:
 - on OpenShift, you can use `helm upgrade`
 - on Kubernetes, use `helm delete <chart-name>` `helm install ...` commands for the time being
 
+## Helm Repository
+
+
+
 ## How to configure?
 
 If using helm, modify values.yaml for helm chart parameters
